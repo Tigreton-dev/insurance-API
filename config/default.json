@@ -1,4 +1,3 @@
 {
-  "jwtPrivateKey": "123",
   "db": "mongodb://localhost/insuranceAPI"
 }
