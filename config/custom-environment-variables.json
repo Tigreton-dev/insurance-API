@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "insurance_jwtPrivateKey",
+  "db": "db"
+}
